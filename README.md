@@ -1,11 +1,11 @@
 ## Meet the ColumbiaExplorer Developers:
 
-Christian Mead- @cmmead 
+[Christian Mead](https://github.com/cmmead)
 
-Anatoli Chavchich- @anatoli-chav
+[Anatoli Chavchich](https://github.com/anatoli-chav)
 
-Adel Longino- @SweatahVest
+[Adel Longino](https://github.com/SweatahVest)
 
-Amani Khawaja - @ameskhawaja
+[Amani Khawaja](https://github.com/ameskhawaja)
 
-Donyelle Wallace - @donyelle2011
+[Donyelle Wallace](https://github.com/donyelle2011)
