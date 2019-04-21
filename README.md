@@ -14,11 +14,11 @@ Adel is a senior majoring in CIS and minoring in Business Management. Adel will 
 
 ## [Amani Khawaja](https://github.com/ameskhawaja) 
 
-Amani is a senior majoring in Computer Engineering and graduating in May, 2019. She chose a start-up project to push herself outside of her comfort zone and design/build a mobile application. Favorite moment of developing Columbia Explorer: coding with her group and debugging. Follow her [LinkedIn](www.linkedin.com/in/amanikhawaja)
+Amani is a senior majoring in Computer Engineering and graduating in May, 2019. She chose a start-up project to push herself outside of her comfort zone and design/build a mobile application. Favorite moment of developing Columbia Explorer: coding with her group and debugging. Follow her on [LinkedIn](www.linkedin.com/in/amanikhawaja)
 
 ## [Donyelle Wallace](https://github.com/donyelle2011) 
 
-Donyelle is a senior majoring in Computer Engineering and graduating in December, 2019. Donyelle enjoys coding and learning in new coding environments. Her favorite programming language is Python and wants a career in hardware engineering. Foller her [LinkedIn](www.linkedin.com/in/donyelle-monique--wallace-15336112a)
+Donyelle is a senior majoring in Computer Engineering and graduating in December, 2019. Donyelle enjoys coding and learning in new coding environments. Her favorite programming language is Python and wants a career in hardware engineering. Foller her on [LinkedIn](www.linkedin.com/in/donyelle-monique--wallace-15336112a)
 
 Click our names to follow our github accounts! 
 
