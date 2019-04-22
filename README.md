@@ -6,7 +6,7 @@ Christian is a senior majoring in CIS and graduating in May,2019. Christian has 
 
 ## [Anatoli Chavchich](https://github.com/anatoli-chav) 
 
-Anatoli is a senior majoring in CIS and graduating in May, 2019. Anatoli enjoys working on the testing and debugging of Columbia Explorer. 
+Anatoli is a senior majoring in CIS and graduating in May, 2019. Anatoli wanted to create a user experience that focused less on making profit and more on helping users explore the culture and landmarks of his home city. Columbia Explorer helped him see the city he grew up in through different eyes, and he is grateful to have had the chance to help create this experience for our users.
 
 ## [Adel Longino](https://github.com/SweatahVest)  
 
